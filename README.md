@@ -1,4 +1,4 @@
-VAPI: Assessment of flood discharges in Italy.
+VAPI: ASSESSMENT OF FLOOD DISCHARGE IN ITALY.
 
 This MATLAB code aims to automate the assessment of flood discharges occurring in Italy. 
 1) The input parameters are digitized in the files 'prpb', 'time_int' (time interval), and 'tr' (return period).
